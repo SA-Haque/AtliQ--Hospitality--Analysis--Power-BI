@@ -122,6 +122,3 @@ If you have any questions or feedback, feel free to reach out via:
 * GitHub: \[your-profile-link]
 * LinkedIn: \[your-linkedin-profile]
 
----
-
-Let me know if you want me to include links to your **LinkedIn**, **GitHub**, or a **hosted live report**, or want this saved as a `.md` file.
