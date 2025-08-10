@@ -147,6 +147,6 @@ This dashboard helps AtliQ Hospitality’s management track and analyze:
 
 If you have any questions or feedback, feel free to reach out via:
 
-* GitHub: \[https://github.com/SA-Haque]
+* E- mail: \[s.a.haque.analyst@gmail.com]
 * LinkedIn: \[https://www.linkedin.com/in/shahbaz-ali-haque/]
 
